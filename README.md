@@ -2,11 +2,6 @@
 
 Java 수업 과제
 
-- What your project does
-- Why people should consider using your project
-- Link to project home page
-
-
 
 ## About the Project
 
